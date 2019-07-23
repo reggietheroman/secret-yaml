@@ -1,0 +1,26 @@
+{
+  "name": "secret-yaml",
+  "version": "1.0.0",
+  "description": "Simple application for encoding and decoding secret.yml files.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/reggietheroman/secret-yaml.git"
+  },
+  "keywords": [
+    "Yaml",
+    "Node.js"
+  ],
+  "author": "Reggie Bigornia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reggietheroman/secret-yaml/issues"
+  },
+  "homepage": "https://github.com/reggietheroman/secret-yaml#readme",
+  "dependencies": {
+    "yaml": "^1.6.0"
+  }
+}
